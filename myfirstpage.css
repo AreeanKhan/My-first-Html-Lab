@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://cdn-cf.gamivo.com/image_cover.jpg?f=123073&n=7967124560810508.jpg&h=f103c38d9ecc8833b4f7a45e6582f5f9);
+    background-size: cover;
+}
+
+.Text{
+    color: rgb(196, 0, 0);
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 32px;
+    letter-spacing: 1.6px;
+    word-spacing: -5px;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+.Links{
+    color: rgb(196, 0, 0);
+}
+
+.des-sub-des{
+    color:blue;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 32px;
+    letter-spacing: 1.6px;
+    word-spacing: -5px;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
