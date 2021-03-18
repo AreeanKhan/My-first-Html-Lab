@@ -1,8 +1,7 @@
 body{
-    background-image: url(https://cdn-cf.gamivo.com/image_cover.jpg?f=123073&n=7967124560810508.jpg&h=f103c38d9ecc8833b4f7a45e6582f5f9);
-    background-size: cover;
+    background-image: url(https://www.godisageek.com/wp-content/uploads/Star-Wars-Jedi-Fallen-Order.jpg);
+    background-image: cover;
 }
-
 .Text{
     color: rgb(196, 0, 0);
     font-family: "Lucida Console", Monaco, monospace;
@@ -14,6 +13,10 @@ body{
     font-style: normal;
     font-variant: normal;
     text-transform: none;
+}
+
+#main-para{
+    color: white;
 }
 
 .Links{
