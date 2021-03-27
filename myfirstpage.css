@@ -6,6 +6,7 @@ body{
 hr{
     color: blue;
 }
+
 .Text{
     color: rgb(196, 0, 0);
     font-family: "Lucida Console", Monaco, monospace;
@@ -36,7 +37,7 @@ hr{
     color: rgb(196, 0, 0);
 }
 
-.des-sub-des{
+.des-sub-des, #cal-para{
     color:blue;
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 32px;
@@ -61,4 +62,17 @@ footer{
     bottom: 0;
     left: 0;
     width: 300px;
+}
+
+#cal-para{
+    color:darkblue;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 32px;
+    letter-spacing: 1.6px;
+    word-spacing: -5px;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
 }
