@@ -1,6 +1,10 @@
 body{
     background-image: url(https://www.godisageek.com/wp-content/uploads/Star-Wars-Jedi-Fallen-Order.jpg);
-    background-image: cover;
+    background-size: cover;
+}
+
+hr{
+    color: blue;
 }
 .Text{
     color: rgb(196, 0, 0);
@@ -43,4 +47,18 @@ body{
     font-style: normal;
     font-variant: normal;
     text-transform: none;
+}
+
+footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+}
+
+#Home-footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
 }
