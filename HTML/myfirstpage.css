@@ -32,6 +32,7 @@ body{
 
 .Links{
     color: rgb(196, 0, 0);
+    position: sticky;
 }
 
 .des-sub-des, #cal-para{
